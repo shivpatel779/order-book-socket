@@ -1,0 +1,15 @@
+.table-view{
+	height: 500px;
+}
+.mt-20{
+	margin-top: 20px;
+}
+table tr {
+	text-align: center;
+}
+table tr td{
+	font-size: 16px
+}
+h3{
+	text-align: center;
+}
